@@ -12,13 +12,13 @@ const slides = [
 // ── Modal messages (satu per klik bergantian) ──
 const modalMessages = [
   "ini namanya awa, cewe paling lucuuuu yang pernah aku temuin.",
-  "aku happy banget bisa ketemu sama awa, beneran deh.",
+  "aku happy banget bisa ketemu sama awa, asliee ini mah.",
   "call-an sama awa nyaman banget, aku pengen lebih lama lamaa banget.",
-  "AKU SUKA AWAAA HEHEHEEHA",
-  "dia tu cewe yang bawa positif vibes sama aku, seneng banget deh — nakal dikit HEHEHEHEHEH suka.",
+  "AKU SUKA AWAAA HEHEHEEHE",
+  "dia tu cewe yang bawa positif vibes sama aku, seneng banget deh. nakal dikit HEHEHEHEHEH suka.",
   "ak gasuka bgt ada yg nyakitin kamu. KOK BISA SII CEWE KAYA GINI DI SAKITIN ISH kesel bgt.",
   "banyak lagi yang ak suka dri kamu wlau baru kenal seminggu ia hehe.",
-  "kaya ak jdi kecintaan bgt deh sama kamu ."
+  "kaya ak jdi kecintaan bgt deh sama kamu."
 ];
 let modalIdx = 0;
 
